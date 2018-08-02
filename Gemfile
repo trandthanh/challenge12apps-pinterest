@@ -22,6 +22,7 @@ gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails'
 gem 'jquery-rails'
+gem 'acts_as_votable'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
